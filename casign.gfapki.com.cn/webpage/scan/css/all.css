@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {margin:0px;
+   padding:0px;
+   font-size:12px;}
+
+
+	
+	
+.box{
+	border:1px #506652 solid;
+	width:36%;
+	height:75px;
+	background-color:#eaefd9;
+	margin-top:5%;
+	margin-left:2%;
+	float:left;}
+	
+
+	
+	
+.box_1{
+	border:1px #506652 solid;
+	width:50%;
+	height:75px;
+	background-color:#dadbd8;
+	margin-top:5%;
+	margin-left:2%;
+	float:right;
+	margin-right:2%;}	
+	
+	
+.nei_color{border:1px #FFFFFF solid;
+           height:73px;}	
+	
+	   
+
+
+.ul_1{float:left;
+      text-align:center;}
+
+.ul_2{
+	  position:relative;
+	  text-align:center;
+	  top:40%;}
+		   
+.wenzi{
+	text-align:center;
+	position:relative;
+	top:40%;}
+
+.box_wenzi{font-size:12px;
+          font-weight:bold;
+		  color:#344335;}
+		   				
+li{display:inline;}
+
+ul{list-style:none;}
+
+.foot{
+	  position:absolute;
+      height:25px;
+	  width:100%;
+	  background-color:#362A2E;
+	  color:#000;
+	  bottom:0px;
+	  text-align:center;
+	  padding-top:8px;
+	  color:#9fb164;}
+
+
+
